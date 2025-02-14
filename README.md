@@ -1,4 +1,4 @@
-# grapevine-berries-anotmaly-detection-with-zero-shot-learning-and-SAM# Anomaly Detection on Table Grapes Using Segmentation and Open-Set Object Detection
+# Anomaly Detection on Table Grapes Using SAM Segmentation and Open-Set Object Detection
 
 ## Overview
 
